@@ -3,9 +3,9 @@
 ___
 ### Olá amigos(as) 
 
-Seja bem-vindo ao meu perfil no git gub, nele demonstrarei os códigos e linguagens, ao qual adquiri em minha aprendizagem!
+Seja bem-vindo ao meu perfil no git gub, nele demonstrarei os códigos e linguagens ao qual estou estudando e aperfeiçoando minha aprendizagem!
 
-Meu LinkedIn<a href= "https://www.linkedin.com/in/felipe-y-castro-a0124522b/">
+<a href= "https://www.linkedin.com/in/felipe-y-castro-a0124522b/">Meu LinkedIn <img src="/logo.LinkedIn.png"><a>
 
 ___
 
