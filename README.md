@@ -5,7 +5,9 @@ ___
 
 Seja bem-vindo ao meu perfil no git hub, nele demonstrarei os códigos e linguagens ao qual estou estudando e aperfeiçoando minha aprendizagem!
 
-Meu LinkedIn <a href= "https://www.linkedin.com/in/felipe-y-castro-a0124522b/" target="_blank" title="LinkedIn"><img src="/logo.LinkedIn.png"><a>
+
+<a href= "https://www.linkedin.com/in/felipe-y-castro-a0124522b/" target="_blank" title="LinkedIn"><img src="/logo.LinkedIn.png"><br>
+Meu LinkedIn<a>
 
 ___
 
