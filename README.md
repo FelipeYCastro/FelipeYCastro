@@ -1,4 +1,13 @@
-### Hi there 👋
+![Bem vindo!👋](https://github.com/FelipeYCastro/FelipeYCastro/commit/44d39498a0965b9a6bacc9a67fa513090bd701bb)
+
+___
+### Olá amigos(as) 
+
+Seja bem-vindo ao meu perfil no git gub, nele demonstrarei os códigos e linguagens, ao qual adquiri em minha aprendizagem!
+
+Meu LinkedIn<a href= "https://www.linkedin.com/in/felipe-y-castro-a0124522b/">
+
+___
 
 <!--
 **FelipeYCastro/FelipeYCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
